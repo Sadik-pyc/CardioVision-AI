@@ -1,0 +1,6 @@
+{
+  "name": "CardioVision AI - Cardiovascular Risk & Coronary Vessel Prediction",
+  "description": "Hackathon research prototype for cardiovascular disease risk visualization, multi-vessel coronary stenosis prediction (LAD, LCX, RCA), 3D anatomical heart rendering, and Model Feature Attributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
